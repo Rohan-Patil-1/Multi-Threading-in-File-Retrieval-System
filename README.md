@@ -1,7 +1,5 @@
 # Multi-Threading in File Retrieval System
 
-# File Retrieval System
-
 
 ## Overview
 This repository contains a Java-based file retrieval system designed to index and search large datasets efficiently, now enhanced with multithreading for improved performance. The system supports full-text search functionality, enabling rapid indexing and querying of documents. It was developed using Maven on Ubuntu 24.04.1 LTS.
